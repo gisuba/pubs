@@ -5,7 +5,7 @@ This is a page to be beautified and simplified and above all populated with arti
 The first set will be the Mr. Polly pubs on artificial memory :smile:
 
 Mr Polly - human memory simulations in SQL databases and the emergence of knowledge
-![Mr Polly - human memory simulations in SQL databases and the emergence of knowledge] (https://github.com/gisuba/pubs/blob/main/2019%20022-LEON_a_01441-Bahr%20Mr%20Polly.pdf)
+![Mr Polly - human memory simulations in SQL databases and the emergence of knowledge](https://github.com/gisuba/pubs/blob/main/2019%20022-LEON_a_01441-Bahr%20Mr%20Polly.pdf)
 
 Mr Polly - the Big Data between your ears: human cognition inspired heuristics for forgetting in databases 
 (this is a very naughty paper indeed because forgetful databases send a shiver down your spine)
