@@ -6,7 +6,7 @@ The first set will be the Mr. Polly pubs on artificial memory :smile:
 
 [Mr Polly - human memory simulations in SQL databases and the emergence of knowledge](https://github.com/gisuba/pubs/blob/main/2019%20022-LEON_a_01441-Bahr%20Mr%20Polly.pdf)
 
-Mr Polly - the Big Data between your ears: human cognition inspired heuristics for forgetting in databases 
+[Mr Polly - the Big Data between your ears: human cognition inspired heuristics for forgetting in databases]() 
 (this is a very naughty paper indeed because forgetful databases send a shiver down your spine)
 
 Excuse me, but this image is to keep you company while you are waiting fir Ardemia, the relational archtecture for Mr. Polly to be posted
